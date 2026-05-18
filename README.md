@@ -24,9 +24,9 @@ HTML • CSS • JavaScript • PHP • Laravel • C# • .NET • Git • GitH
 ---
 
 ## 🌐 Connect with Me
-- LinkedIn: your-linkedin-link
-- GitHub: your-github-link
-- Email: your-email@example.com
+- LinkedIn: www.linkedin.com/in/htet-htet-win-25a382232
+- GitHub: https://github.com/htethtet-77
+- Email: htethtetwin664@gmail.com
 
 ---
 
